@@ -1,0 +1,82 @@
+[
+  {
+    "name": "React.js",
+    "category": "Frontend",
+    "proficiency": 92,
+    "iconName": "React",
+    "id": "seed_skill_1",
+    "createdAt": "2026-05-30T14:26:15.655Z"
+  },
+  {
+    "name": "JavaScript (ES6+)",
+    "category": "Frontend",
+    "proficiency": 95,
+    "iconName": "Code",
+    "id": "seed_skill_2",
+    "createdAt": "2026-05-30T14:26:15.655Z"
+  },
+  {
+    "name": "HTML5 & CSS3",
+    "category": "Frontend",
+    "proficiency": 98,
+    "iconName": "Layers",
+    "id": "seed_skill_3",
+    "createdAt": "2026-05-30T14:26:15.655Z"
+  },
+  {
+    "name": "Node.js",
+    "category": "Backend",
+    "proficiency": 88,
+    "iconName": "Server",
+    "id": "seed_skill_4",
+    "createdAt": "2026-05-30T14:26:15.655Z"
+  },
+  {
+    "name": "Express.js",
+    "category": "Backend",
+    "proficiency": 90,
+    "iconName": "Cpu",
+    "id": "seed_skill_5",
+    "createdAt": "2026-05-30T14:26:15.655Z"
+  },
+  {
+    "name": "MongoDB",
+    "category": "Backend",
+    "proficiency": 85,
+    "iconName": "Database",
+    "id": "seed_skill_6",
+    "createdAt": "2026-05-30T14:26:15.655Z"
+  },
+  {
+    "name": "SQL (SQLite/Postgres)",
+    "category": "Backend",
+    "proficiency": 80,
+    "iconName": "Terminal",
+    "id": "seed_skill_7",
+    "createdAt": "2026-05-30T14:26:15.655Z"
+  },
+  {
+    "name": "Git & Version Control",
+    "category": "Tools",
+    "proficiency": 92,
+    "iconName": "GitBranch",
+    "id": "seed_skill_8",
+    "createdAt": "2026-05-30T14:26:15.655Z"
+  },
+  {
+    "name": "Docker",
+    "category": "Tools",
+    "proficiency": 75,
+    "iconName": "Container",
+    "id": "seed_skill_9",
+    "createdAt": "2026-05-30T14:26:15.655Z"
+  },
+  {
+    "name": "Figma (UI/UX Design)",
+    "category": "Tools",
+    "proficiency": 82,
+    "iconName": "Figma",
+    "id": "seed_skill_10",
+    "createdAt": "2026-05-30T14:26:15.655Z"
+  }
+]

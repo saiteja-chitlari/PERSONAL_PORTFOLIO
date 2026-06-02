@@ -1,0 +1,58 @@
+[
+  {
+    "title": "AI Analytics Platform",
+    "description": "Real-time AI data extraction and visualization dashboard utilizing predictive forecasting models.",
+    "longDescription": "A comprehensive SaaS platform that ingests raw business transaction streams, processes them using specialized machine learning regression algorithms, and renders sub-second interactive analytics. Features automated reporting, visual anomaly highlighting, and multi-tenant billing integrations.",
+    "category": "Full-Stack",
+    "technologies": [
+      "React",
+      "Node.js",
+      "Express",
+      "D3.js",
+      "MongoDB",
+      "Python"
+    ],
+    "image": "/assets/project_ai_analytics.jpg",
+    "githubUrl": "https://github.com",
+    "liveUrl": "https://example.com",
+    "id": "seed_proj_1",
+    "createdAt": "2026-05-30T14:26:15.651Z"
+  },
+  {
+    "title": "Vivid Sound Streamer",
+    "description": "Sleek, audio-spatial streaming player with automated transcript generation and real-time waveform visualizers.",
+    "longDescription": "A high-performance audio web player developed for creators. Utilizing Web Audio API nodes for spatialized sound delivery, WebSockets for concurrent collaborative queues, and natural language API triggers for caption generation. Fully optimized for high-bandwidth accessibility.",
+    "category": "Frontend",
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Vite",
+      "Web Audio API"
+    ],
+    "image": "/assets/project_sound_streamer.jpg",
+    "githubUrl": "https://github.com",
+    "liveUrl": "https://example.com",
+    "id": "seed_proj_2",
+    "createdAt": "2026-05-30T14:26:15.652Z"
+  },
+  {
+    "title": "IoT Smart Green House",
+    "description": "Centralized industrial greenhouse dashboard linking atmospheric microcontrollers directly to the cloud.",
+    "longDescription": "An end-to-end IoT platform supporting microclimate monitoring. Ingests humidity, soil saturation, and solar radiation statistics. The application triggers automated server actions (water pump actuation, blind adjustments) based on historical optimal growth conditions.",
+    "category": "Full-Stack",
+    "technologies": [
+      "Node.js",
+      "SQLite",
+      "React",
+      "WebSockets",
+      "MQTT",
+      "Chart.js"
+    ],
+    "image": "/assets/project_iot_greenhouse.jpg",
+    "githubUrl": "https://github.com",
+    "liveUrl": "https://example.com",
+    "id": "seed_proj_3",
+    "createdAt": "2026-05-30T14:26:15.652Z"
+  }
+]
